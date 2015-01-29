@@ -1,7 +1,7 @@
 {
   "name": "techan",
   "version": "0.5.0",
-  "main": "dist/techan.js",
+  "main": "src/techan.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/andredumas/techan.js.git"
